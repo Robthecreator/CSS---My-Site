@@ -129,3 +129,8 @@ hr {
   background: -webkit-gradient(linear, left top, left bottom, from(#468CCF), to(#63B8EE));
   background: -moz-linear-gradient(top,  #468CCF,  #63B8EE);
 }
+
+.introduction {
+  width: 40%;
+  margin: auto;
+}
